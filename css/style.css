@@ -3,7 +3,15 @@
     height: 34px;
 }
 #barra-gris{
-    background-color:darkgray;
+    background-color: #fefefe;
+    position:fixed;
+    
+    
+}
+#barra-azul{
+    position:relative;
+    background-color:#015dca;
+    top: 34px;
 }
 body{
     margin: 0;
